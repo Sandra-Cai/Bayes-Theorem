@@ -57,7 +57,7 @@ Good issue titles:
 
 ## Style Guidelines
 
-- Write in clear, accessible English — the paper is aimed at a general educated audience, not only mathematicians
+- Write in clear, accessible English, the paper is aimed at a general educated audience, not only mathematicians
 - Use LaTeX notation for all formulas (as already used throughout the paper)
 - Keep a neutral, academic tone
 - Cite sources where you introduce new factual claims
