@@ -7,7 +7,7 @@
 
 ## About This Paper
 
-This white paper argues that Bayes' Theorem — a foundational concept in probability theory developed by mathematician Thomas Bayes in 1763 — offers the most rigorous and rational framework for everyday decision-making.
+This white paper argues that Bayes' Theorem, a foundational concept in probability theory developed by mathematician Thomas Bayes in 1763, offers the most rigorous and rational framework for everyday decision-making.
 
 The paper walks through:
 - The mathematical foundations of conditional probability and Bayes' Theorem
@@ -21,7 +21,7 @@ The paper walks through:
 
 ## Why Open Source?
 
-Good ideas get better with more eyes on them. This repo is open for the community to suggest improvements — whether that's tightening the math, clarifying an explanation, fixing a typo, or proposing new real-world scenarios.
+Good ideas get better with more eyes on them. This repo is open for the community to suggest improvements, whether that's tightening the math, clarifying an explanation, fixing a typo, or proposing new real-world scenarios.
 
 ---
 
@@ -40,7 +40,7 @@ Quick version:
 2. Make your edits on a new branch
 3. Open a Pull Request with a clear description of your changes
 
-All contributions are welcome — from grammar fixes to substantive additions.
+All contributions are welcome, from grammar fixes to substantive additions.
 
 ---
 
