@@ -7,7 +7,7 @@
 
 ## About This Paper
 
-This white paper argues that Bayes' Theorem, a foundational concept in probability theory developed by mathematician Thomas Bayes in 1763, offers the most rigorous and rational framework for everyday decision-making.
+This white paper argues that Bayes' Theorem, a foundational concept in probability theory developed by mathematician Thomas Bayes in 1763, offers the most rigorous and rational framework for everyday decision-making (probably the best one).
 
 The paper walks through:
 - The mathematical foundations of conditional probability and Bayes' Theorem
